@@ -1,2 +1,2 @@
 # twmc
-The WestMinster college
+The Westminster college
